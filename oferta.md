@@ -4,7 +4,7 @@
 
 ## 1. Ijrochi va loyiha
 
-Ushbu oferta [IPning to'liq F.I.Sh.] nomidan, O'zbekiston Respublikasida yakka tartibdagi tadbirkor sifatida faoliyat yurituvchi, STIR: [STIR], manzil: [manzil], telefon: [telefon], email: [email] (keyingi o'rinlarda — **Ijrochi**) tomonidan taqdim etiladi.
+Ushbu oferta Tilavoldiyev Jamshidali Alisher o‘g‘li nomidan, O‘zbekiston Respublikasida yakka tartibdagi tadbirkor sifatida faoliyat yurituvchi (STIR: 543238354, manzil: Farg‘ona shahri, B. Marg‘iloniy ko‘chasi, 53-uy, telefon: +998 93 731-96-54) (keyingi o‘rinlarda — **Ijrochi**) tomonidan taqdim etiladi.
 
 **«Zamonaviy Kasblar Duo»** loyihasi biznes haqida qisqa intervyu va ijtimoiy tarmoqlar uchun video tayyorlashni, shuningdek tanlovda g'olib bo'lgan mobilografga bir oylik kurs kirishini berishni nazarda tutadi.
 
@@ -102,9 +102,9 @@ Har bir rolik eng ko'pi bilan 20 ball oladi. Yuqori ball to'plagan mobilograf g'
 
 - To'liq F.I.Sh.: [to'ldiriladi]
 - Maqomi: yakka tartibdagi tadbirkor
-- STIR: [to'ldiriladi]
-- Manzil: [to'ldiriladi]
-- Telefon: [to'ldiriladi]
+- STIR: 543238354; JShShIR (PINFL): 315079774004076; hisob raqami: 202180006007843003001; bank: ATB «Kapitalbank»; MFO: 01043
+- Manzil: Farg'ona shahri, B. Marg'iloniy ko'chasi, 53-uy
+- Telefon: +998 93 731-96-54
 - Email: [to'ldiriladi]
 - Telegram: [to'ldiriladi]
 - Asosiy Ruhsor sahifasi: [havola]
@@ -115,7 +115,7 @@ Har bir rolik eng ko'pi bilan 20 ball oladi. Yuqori ball to'plagan mobilograf g'
 
 ## E'lon qilishdan oldin to'ldirilishi kerak
 
-1. Ijrochining rasmiy rekvizitlari va hisob/to'lov ma'lumotlari.
+1. Ijrochining email, Telegram va faol Instagram akkauntlari havolalari.
 2. Yangi loyiha Instagram akkaunti va asosiy «Ruhsor» akkaunti havolalari.
 3. Kursning rasmiy nomi, dasturi, kirish shartlari va g'olibga beriladigan aniq huquq.
 4. 2 500 000 so'mlik boshlang'ich paketdan yuqori paketlar narxi va farqlari.
