@@ -100,7 +100,7 @@ Har bir rolik eng ko'pi bilan 20 ball oladi. Yuqori ball to'plagan mobilograf g'
 
 ## 10. Ijrochi rekvizitlari
 
-- To'liq F.I.Sh.: [to'ldiriladi]
+- To'liq F.I.Sh.: Tilavoldiyev Jamshidali Alisher o'g'li
 - Maqomi: yakka tartibdagi tadbirkor
 - STIR: 543238354; JShShIR (PINFL): 315079774004076; hisob raqami: 202180006007843003001; bank: ATB «Kapitalbank»; MFO: 01043
 - Manzil: Farg'ona shahri, B. Marg'iloniy ko'chasi, 53-uy
